@@ -35,4 +35,5 @@ package.json
 package-lock.json
 .cpcache
 resources/brepl_client.js
+resources/public/js
 .shadow-cljs
